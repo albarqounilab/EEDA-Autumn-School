@@ -5,6 +5,7 @@ Some resources as inspiration. Feel free to add to the list
 ## Courses (for inspiration)
 
 - https://albarqouni.github.io/students/courses/iml2022/
+- [Udacity](https://www.udacity.com/school-of-ai)
 
 
 ## Datasets
