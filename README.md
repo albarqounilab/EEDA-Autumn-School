@@ -15,3 +15,9 @@ Some resources as inspiration. Feel free to add to the list
 ## Articles/Blog posts
 
 - https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-linear-regression/
+
+## Playgrounds
+
+- [Tensorflow — Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=[…]se&problem=classification&initZero=false&hideText=false) 
+- [Machine Learning Playground](https://ml-playground.com/#)
+- [ML Playground Linear Regression](https://mlplaygrounds.com/)
