@@ -7,6 +7,10 @@ Some resources as inspiration. Feel free to add to the list
 - https://albarqouni.github.io/students/courses/iml2022/
 - [Udacity](https://www.udacity.com/school-of-ai)
 
+## Outline
+
+- [CNN's](https://www.canva.com/design/DAFpiQ1q8Fc/1sIC-4WIdjcMoLlb_uOXKw/edit?utm_content=DAFpiQ1q8Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- Clustering and Dim. Reduction
 
 ## Datasets
 
