@@ -28,3 +28,4 @@ Some resources as inspiration. Feel free to add to the list
 - [Machine Learning Playground](https://ml-playground.com/#)
 - [ML Playground Linear Regression](https://mlplaygrounds.com/)
 - [Image kernels](https://setosa.io/ev/image-kernels/)
+- [Image Convolutional Playground](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
