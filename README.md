@@ -27,3 +27,4 @@ Some resources as inspiration. Feel free to add to the list
 - [Tensorflow — Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=[…]se&problem=classification&initZero=false&hideText=false) 
 - [Machine Learning Playground](https://ml-playground.com/#)
 - [ML Playground Linear Regression](https://mlplaygrounds.com/)
+- [Image kernels](https://setosa.io/ev/image-kernels/)
