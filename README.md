@@ -29,3 +29,5 @@ Some resources as inspiration. Feel free to add to the list
 - [ML Playground Linear Regression](https://mlplaygrounds.com/)
 - [Image kernels](https://setosa.io/ev/image-kernels/)
 - [Image Convolutional Playground](https://generic-github-user.github.io/Image-Convolution-Playground/src/)
+- [K-Means Clustering Demo](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng574/k-means/)
+- [DBScan visualization](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/)
