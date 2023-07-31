@@ -9,8 +9,8 @@ Some resources as inspiration. Feel free to add to the list
 
 ## Outline
 
-- [CNN's](https://www.canva.com/design/DAFpiQ1q8Fc/1sIC-4WIdjcMoLlb_uOXKw/edit?utm_content=DAFpiQ1q8Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Clustering and Dim. Reduction](https://www.canva.com/design/DAFpuBh4X8M/4akDxbcnH2_Hl0nnw0V_5w/edit?utm_content=DAFpuBh4X8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+3. [CNN's](https://www.canva.com/design/DAFpiQ1q8Fc/1sIC-4WIdjcMoLlb_uOXKw/edit?utm_content=DAFpiQ1q8Fc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+4. [Clustering and Dim. Reduction](https://www.canva.com/design/DAFpuBh4X8M/4akDxbcnH2_Hl0nnw0V_5w/edit?utm_content=DAFpuBh4X8M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Datasets
 
