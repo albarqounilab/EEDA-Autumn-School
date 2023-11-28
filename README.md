@@ -1,4 +1,4 @@
-# AI winter school assignments
+# Practical Training for the EEDA Autumn School on AI (https://eeda2023.github.io/)
 
 Some resources as inspiration. Feel free to add to the list
 
